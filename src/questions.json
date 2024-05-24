@@ -1,0 +1,692 @@
+[
+    {
+        "key": 1,
+        "question": "Which organelle is responsible for producing energy in a cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Mitochondrion"
+            },
+            {
+                "key": "B",
+                "value": "Golgi apparatus"
+            },
+            {
+                "key": "C",
+                "value": "Endoplasmic reticulum"
+            },
+            {
+                "key": "D",
+                "value": "Nucleus"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "key": 2,
+        "question": "What is the function of the Golgi apparatus?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Lipid synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Packaging and modifying proteins"
+            },
+            {
+                "key": "D",
+                "value": "DNA replication"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 3,
+        "question": "Which of the following is not a function of the cell membrane?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Regulating the passage of substances"
+            },
+            {
+                "key": "B",
+                "value": "Providing structural support"
+            },
+            {
+                "key": "C",
+                "value": "Cell communication"
+            },
+            {
+                "key": "D",
+                "value": "Cell recognition"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 4,
+        "question": "What is the role of ribosomes in a cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Energy production"
+            },
+            {
+                "key": "B",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Lipid synthesis"
+            },
+            {
+                "key": "D",
+                "value": "DNA replication"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 5,
+        "question": "Which structure contains the cell's genetic material?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Ribosome"
+            },
+            {
+                "key": "B",
+                "value": "Nucleus"
+            },
+            {
+                "key": "C",
+                "value": "Mitochondrion"
+            },
+            {
+                "key": "D",
+                "value": "Chloroplast"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 6,
+        "question": "Which organelle is responsible for detoxifying harmful substances in the cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Lysosome"
+            },
+            {
+                "key": "B",
+                "value": "Vacuole"
+            },
+            {
+                "key": "C",
+                "value": "Peroxisome"
+            },
+            {
+                "key": "D",
+                "value": "Endoplasmic reticulum"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 7,
+        "question": "What is the function of the cytoskeleton in a cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Energy production"
+            },
+            {
+                "key": "B",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Cell shape and support"
+            },
+            {
+                "key": "D",
+                "value": "DNA replication"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 8,
+        "question": "Which organelle is responsible for cellular respiration?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Mitochondrion"
+            },
+            {
+                "key": "B",
+                "value": "Chloroplast"
+            },
+            {
+                "key": "C",
+                "value": "Nucleus"
+            },
+            {
+                "key": "D",
+                "value": "Golgi apparatus"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "key": 9,
+        "question": "What is the main function of the smooth endoplasmic reticulum?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Lipid synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Ribosome assembly"
+            },
+            {
+                "key": "D",
+                "value": "Carbohydrate synthesis"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 10,
+        "question": "Which organelle is responsible for photosynthesis in plant cells?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Mitochondrion"
+            },
+            {
+                "key": "B",
+                "value": "Chloroplast"
+            },
+            {
+                "key": "C",
+                "value": "Golgi apparatus"
+            },
+            {
+                "key": "D",
+                "value": "Peroxisome"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 11,
+        "question": "What is the function of lysosomes?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Cellular respiration"
+            },
+            {
+                "key": "C",
+                "value": "Breakdown of waste materials"
+            },
+            {
+                "key": "D",
+                "value": "Lipid synthesis"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 12,
+        "question": "Which of the following is not a type of cytoskeleton filament?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Actin filaments"
+            },
+            {
+                "key": "B",
+                "value": "Microtubules"
+            },
+            {
+                "key": "C",
+                "value": "Intermediate filaments"
+            },
+            {
+                "key": "D",
+                "value": "Golgi filaments"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "key": 13,
+        "question": "What is the function of the nucleolus?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Ribosome assembly"
+            },
+            {
+                "key": "C",
+                "value": "Lipid synthesis"
+            },
+            {
+                "key": "D",
+                "value": "DNA replication"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 14,
+        "question": "Which organelle contains digestive enzymes?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Nucleus"
+            },
+            {
+                "key": "B",
+                "value": "Mitochondrion"
+            },
+            {
+                "key": "C",
+                "value": "Lysosome"
+            },
+            {
+                "key": "D",
+                "value": "Chloroplast"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 15,
+        "question": "Which organelle is responsible for storing water and nutrients in plant cells?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Lysosome"
+            },
+            {
+                "key": "B",
+                "value": "Vacuole"
+            },
+            {
+                "key": "C",
+                "value": "Peroxisome"
+            },
+            {
+                "key": "D",
+                "value": "Endoplasmic reticulum"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 16,
+        "question": "What is the function of the rough endoplasmic reticulum?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Lipid synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Ribosome assembly"
+            },
+            {
+                "key": "D",
+                "value": "Carbohydrate synthesis"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "key": 17,
+        "question": "Which organelle is responsible for breaking down fatty acids and detoxifying alcohol in the liver?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Lysosome"
+            },
+            {
+                "key": "B",
+                "value": "Vacuole"
+            },
+            {
+                "key": "C",
+                "value": "Peroxisome"
+            },
+            {
+                "key": "D",
+                "value": "Endoplasmic reticulum"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 18,
+        "question": "What is the function of the centrioles in animal cells?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Cellular respiration"
+            },
+            {
+                "key": "C",
+                "value": "Cell division"
+            },
+            {
+                "key": "D",
+                "value": "Lipid synthesis"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 19,
+        "question": "Which organelle contains thylakoids and grana?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Mitochondrion"
+            },
+            {
+                "key": "B",
+                "value": "Chloroplast"
+            },
+            {
+                "key": "C",
+                "value": "Golgi apparatus"
+            },
+            {
+                "key": "D",
+                "value": "Peroxisome"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 20,
+        "question": "What is the function of the central vacuole in plant cells?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Storage of water and nutrients"
+            },
+            {
+                "key": "B",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Cellular respiration"
+            },
+            {
+                "key": "D",
+                "value": "DNA replication"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "key": 21,
+        "question": "Which of the following is not a function of the nucleus?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Storage of genetic material"
+            },
+            {
+                "key": "B",
+                "value": "Regulation of cell activities"
+            },
+            {
+                "key": "C",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "D",
+                "value": "DNA replication"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 22,
+        "question": "What is the function of the flagella in a cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Movement"
+            },
+            {
+                "key": "B",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Cellular respiration"
+            },
+            {
+                "key": "D",
+                "value": "Lipid synthesis"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "key": 23,
+        "question": "Which organelle is involved in the breakdown of hydrogen peroxide?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Lysosome"
+            },
+            {
+                "key": "B",
+                "value": "Vacuole"
+            },
+            {
+                "key": "C",
+                "value": "Peroxisome"
+            },
+            {
+                "key": "D",
+                "value": "Endoplasmic reticulum"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 24,
+        "question": "What is the function of the nucleoplasm?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Ribosome assembly"
+            },
+            {
+                "key": "C",
+                "value": "Storage of genetic material"
+            },
+            {
+                "key": "D",
+                "value": "Cell shape and support"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 25,
+        "question": "Which structure is responsible for maintaining cell shape and providing mechanical support?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Nucleus"
+            },
+            {
+                "key": "B",
+                "value": "Endoplasmic reticulum"
+            },
+            {
+                "key": "C",
+                "value": "Cytoskeleton"
+            },
+            {
+                "key": "D",
+                "value": "Golgi apparatus"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 26,
+        "question": "What is the function of the peroxisome in a cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "B",
+                "value": "Breakdownof fatty acids"
+            },
+            {
+                "key": "C",
+                "value": "Ribosome assembly"
+            },
+            {
+                "key": "D",
+                "value": "Lipid synthesis"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "key": 27,
+        "question": "Which organelle is responsible for protein folding and transport in eukaryotic cells?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Lysosome"
+            },
+            {
+                "key": "B",
+                "value": "Peroxisome"
+            },
+            {
+                "key": "C",
+                "value": "Golgi apparatus"
+            },
+            {
+                "key": "D",
+                "value": "Endoplasmic reticulum"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "key": 28,
+        "question": "What is the function of the nuclear envelope?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Regulating the passage of substances"
+            },
+            {
+                "key": "B",
+                "value": "Providing structural support"
+            },
+            {
+                "key": "C",
+                "value": "Cell communication"
+            },
+            {
+                "key": "D",
+                "value": "Surrounding the nucleus and separating it from the cytoplasm"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "key": 29,
+        "question": "Which organelle contains enzymes for intracellular digestion?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Golgi apparatus"
+            },
+            {
+                "key": "B",
+                "value": "Peroxisome"
+            },
+            {
+                "key": "C",
+                "value": "Lysosome"
+            },
+            {
+                "key": "D",
+                "value": "Endoplasmic reticulum"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "key": 30,
+        "question": "What is the function of the microtubules in a cell?",
+        "choices": [
+            {
+                "key": "A",
+                "value": "Cell division"
+            },
+            {
+                "key": "B",
+                "value": "Lipid synthesis"
+            },
+            {
+                "key": "C",
+                "value": "Protein synthesis"
+            },
+            {
+                "key": "D",
+                "value": "Carbohydrate synthesis"
+            }
+        ],
+        "answer": "A"
+    }
+]
